@@ -3,6 +3,18 @@ body
     font-family: 'Poppins', sans-serif;
 
 }
+.gallery-image
+{
+    width: 75%;
+    margin: auto;
+}
+.item-image
+{
+    width: 25%;
+    float: left;
+    padding: 10px;
+    cursor: pointer;
+}
 .rrr
 {
    margin-left: 450px;
