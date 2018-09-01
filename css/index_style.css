@@ -7,6 +7,70 @@ body
 {
    margin-left: 450px;
 }
+.yyy:hover
+{
+    border: 0.5px solid crimson ;
+    color: crimson;
+    
+    
+}
+.rrr
+{
+   margin-left: 450px;
+}
+.nav-tabs .nav-link {
+    border:none;
+    border-top-left-radius:none;
+    border-top-right-radius:none;
+
+
+    
+}
+#sec4
+{
+     background-color: antiquewhite;
+     margin-top:5px;
+}
+.nav-tabs {
+    border-bottom:none;
+}
+.car
+{
+    border: 1px solid white;
+    background-color: white;
+    width: 350px;
+    height: 100px;
+    padding: 10px;
+    
+    
+}
+.fa-search 
+{
+    position: absolute;
+    border: 2px solid black;
+    top:180px;
+    left: 170px;
+    width: 40px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.fa-search:hover
+{
+    background-color: crimson;
+}
+.nav-tabs {
+    border-bottom:none;
+}.nav-tabs .nav-link {
+    border:none;
+    border-top-left-radius:none;
+    border-top-right-radius:none;
+
+
+    
+}
 
 .yyy
 {
