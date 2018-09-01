@@ -3,50 +3,20 @@ body
     font-family: 'Poppins', sans-serif;
 
 }
-#options
+.rrr
 {
-   border:2px solid teal;
-    position: fixed;
-    top:100px;
-    left: 0px;
-    z-index: 23233535;
-    text-align: center;
-    
-}
-#options .color-options
-{
-    background-color: #ccc;
-    border: 2px solid teal;
-    padding: 10px;
-    float: left;
-    
-}
-.jquery
-{
-   background-color: teal;
-   color: #fff;
-    float: left;
-    cursor: pointer;
-     padding: 10px;
-    font-size: 30px;
-    text-align: center;
-    position: fixed;
-    top:100px;
-    left:305px;
-        
- 
-}
-#options ul li
-{
-   
-    width: 25px;
-    height: 25px;
-    display: inline-block;
-   cursor: pointer;
-    padding: 10px;
-    
+   margin-left: 450px;
 }
 
+.yyy
+{
+    border: 0.5px solid  gray;
+    background-color: transparent;
+    margin-left: 5px;
+   
+}
+
+  
 
 #projects
 {
